@@ -1,5 +1,5 @@
 body{
-    background-image: url(/photos/web1.jpg);
+    background-image: url(../photos/web1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
